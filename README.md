@@ -7,6 +7,8 @@ MySQLscanner is a shell script which allows you to scan through your LAN and ide
 
 1.Download the zip file and extract it.
 
-2.Open the terminal 
+2.Open the terminal and cd to MySQLscanner-master.
 
-3.
+3.Now type ./MySQLscanner.sh to run the tool.
+
+4.Now enter your network IP and MySQLscanner will fetch the results.
